@@ -13,7 +13,8 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a recent graduate and tech enthusiast with a passion for software development. I am constantly exploring new technologies and embracing challenges, thriving in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue excellence. Let's create innovative solutions together!
+I am Dhanush, I'm a Programmer.Developing Discord Bots,Website,Scripting FiveM And Samp Files
+Learning Cyber Security, Ethical Hacking
 
 <br>
 
